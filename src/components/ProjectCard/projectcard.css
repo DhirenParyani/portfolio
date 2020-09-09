@@ -20,6 +20,9 @@
 .project-card > p {
     margin: 0;
 }
+.project-card > p>a {
+    margin: 0;
+}
 
 .project-card:hover {
     transform: scale(1.05);
