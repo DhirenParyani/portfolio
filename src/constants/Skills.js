@@ -35,15 +35,16 @@ export const skills = {
         "CI/CD",
         "Full Stack Web Development",
         "System Design",
+        "Distributed Systems",
         "Technical Documentation",
         "Cross Platform Mobile App Development",
-        "Software Development"
+        
     ],
     interpersonalSkills: [
         "Communication",
-        "Teaching",
+        "Problem Solving",
         "Time Management",
         "Leadership",
-        "Management"
+       
     ]
 };

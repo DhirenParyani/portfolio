@@ -25,7 +25,7 @@ export const SectionContainer = ({
             <div className="section-component">
                 {
                     {
-                        about: <About bio={about.bio} />,
+                        about: <About bio={about.bio} email={about.email} address={about.address} contactnumber={about.contactnumber} />,
                         skills: <Skills skills={skills} />,
                         projects: <Projects projects={projects} />,
                         experiences:<Experiences experiences={experiences}/>
